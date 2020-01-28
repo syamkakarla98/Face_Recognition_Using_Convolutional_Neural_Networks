@@ -1,2 +1,10 @@
-# Face_Recognition_Using_Convolutional_Neural_Networks
-### This project involves in building up a custom CNN model with increased accuracy compared to conventional face recognition approches.
+# Face Recognition using Convolution Neural Networks
+###  by Sai Rahul, Syam Kakarla, Priyaranjan Reddy, Syam Kakarla
+
+## Project Description:
+Developing a custom CNN model that contains customized convolutional layers, maxpooling, dropout and dense layers by hyperparameter tuning resulting the increase in accuracy.
+
+#### Prerequisites
+1. **Python 3**
+2. **Neural Networks** 
+3. **Hyperparameter tuning**
