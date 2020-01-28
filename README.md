@@ -7,6 +7,6 @@
   ![License](https://img.shields.io/github/license/syamkakarla98/Face_Recognition_Using_Convolutional_Neural_Networks)
   
 ### Project Description:
-Developing a custom CNN model using convolutional layers, maxpooling, dropout and dense layers by hyperparameter tuning resulting the increase in accuracy.
+Developing a custom **CNN model** using convolutional layers, maxpooling, dropout and dense layers by hyperparameter tuning resulting the increase in accuracy.
 
 
