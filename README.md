@@ -7,6 +7,10 @@
   ![License](https://img.shields.io/github/license/syamkakarla98/Face_Recognition_Using_Convolutional_Neural_Networks)
   
 ### Project Description:
-Developing a custom **CNN model** using convolutional layers, maxpooling, dropout and dense layers by hyperparameter tuning resulting the increase in accuracy.
+The application gives a complete description  regarding dataset creation i.e, collection of images and creating of **CSV** files as well as exploratory analysis of the generated data including development of a custom **CNN model** using convolutional layers, maxpooling, dropout and dense layers by hyperparameter tuning resulting the increase in accuracy.
+
+Firstly, coming to the dataset creation, the current repository contains a folder namely, **Dataset_Creation** consisting of two python scripts **Create_Dataset.py**  used to capture images, **convert_to_csv.py** used to generate the dataset i.e, a csv file.
+
+By executing the **Create_Dataset.py** file, it prompts the user for his/her desired label, number of images to be captured and then starts capturing the required number of images and stores them into a folder with the name previously prompted for. Then by executing the **convert_to_csv.py** file those
 
 
