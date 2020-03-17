@@ -8,10 +8,10 @@
   
 ### Batch No - B1
 ## Team Members:
-# M. Sai Rahul (164G1A0589)
-# K. Syam Vara Prasad Naidu (164G1A05B0)
-# G. Priyaranjan Reddy (164G1A0571)
-# C. Sai Charan Singh (164G1A0584)
+#### M. Sai Rahul (164G1A0589)
+#### K. Syam Vara Prasad Naidu (164G1A05B0)
+#### G. Priyaranjan Reddy (164G1A0571)
+#### C. Sai Charan Singh (164G1A0584)
   
 ### Project Description:
 The application gives a complete description  regarding dataset creation i.e, collection of images and creating of **CSV** files as well as exploratory analysis of the generated data including development of a custom **CNN model** using convolutional layers, maxpooling, dropout and dense layers by hyperparameter tuning resulting the increase in accuracy.
