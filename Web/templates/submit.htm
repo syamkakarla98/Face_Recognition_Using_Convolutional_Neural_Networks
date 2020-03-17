@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Submit</title>
+    <style>
+        .div_de
+        {
+            align-content: center;
+            /*margin:30px;*/
+            width: 30%;
+            height: 60%;
+            position:absolute;
+            border: 9px solid #aaaaaa;
+            padding: 20px;
+            top:10%;
+            left:32%;
+            border-radius:10px;
+            box-shadow: 0 5px #f2f2f2;
+        }
+        #info_section{
+            margin-top: 25%;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <h1 style="text-align: center; color:navy">Face Recognition Using Convolutional Neural Networks</h1>
+    <div class="div_de">
+        <div id='info_section'>
+        <h2 style="text-align: center;">Attendance Posted</h2>
+        <h3 style="text-align: center; color:tomato">Hello, {{data[1]}}</h3>
+        <h3 style="text-align: center;color:mediumSpringGreen">Your Attendance is Posted</h3>
+        <h3 style="text-align: center; ">Roll Numbe: {{data[0]}} <br> Period: {{data[2]}} <br> Time: {{data[3]}} </h3>
+            <!-- {% for x in data %}
+                <p>{{ x }}</p>
+            {% endfor %} -->
+        </div>
+    </div>
+</body>
+</html>

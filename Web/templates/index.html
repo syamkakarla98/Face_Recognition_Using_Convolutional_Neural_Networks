@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% block head %}
+        <link rel="stylesheet" type="text/css" href="pushy.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <title>
+            Webcam
+        </title>
+        {% endblock %}
+        <style>
+            .jumbotron
+            {
+                height: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="jumbotron">
+            <h2 style="text-align: center; margin-top: -10px;"><b>Online Attendance Posting</b></h2>
+        </div>
+    <div style="text-align: center;">
+        <img style="margin-top: 0px;" src="{{url_for('video_feed')}}"/>
+    </div>
+    <div style="text-align: center;">
+        <!-- <button style="margin-top: 5px; color:white ;" type="button" class="btn btn-primary"> -->
+            <a style="margin-top: 20px;" class="btn btn-primary btn-lg" role="button"href="{{url_for('submit')}}">
+                Submit
+            </a>
+        <!-- </button> -->
+    </div>
+    </body>
+</html>
