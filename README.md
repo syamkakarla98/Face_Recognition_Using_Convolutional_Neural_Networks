@@ -6,7 +6,7 @@
   ![issues](https://img.shields.io/github/issues/syamkakarla98/Face_Recognition_Using_Convolutional_Neural_Networks)
   ![License](https://img.shields.io/github/license/syamkakarla98/Face_Recognition_Using_Convolutional_Neural_Networks)
   
-### Batch No - B1
+## Batch No - B1
 ## Team Members:
 #### M. Sai Rahul (164G1A0589)
 #### K. Syam Vara Prasad Naidu (164G1A05B0)
