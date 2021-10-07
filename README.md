@@ -27,4 +27,4 @@ By executing the **Create_Dataset.py** file, it prompts the user for his/her des
 
 
 
-### The Research paper "Smart Attendance Management System Based on Face Recognition Using CNN" is published in [IEEE](https://ieeexplore.ieee.org/abstract/document/9242847).
+### The Research paper "Smart Attendance Management System Based on Face Recognition Using CNN" is published in [IEEE](https://ieeexplore.ieee.org/abstract/document/9242847). DOI: 10.1109/HYDCON48903.2020.9242847
